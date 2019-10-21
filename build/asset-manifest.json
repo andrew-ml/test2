@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.b7111b7e.chunk.js",
-    "main.js.map": "/static/js/main.b7111b7e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.90312ed1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.90312ed1.js.map",
-    "static/js/2.bb94e0cd.chunk.js": "/static/js/2.bb94e0cd.chunk.js",
-    "static/js/2.bb94e0cd.chunk.js.map": "/static/js/2.bb94e0cd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e229d4d08753472ed724be9b47730f10.js": "/precache-manifest.e229d4d08753472ed724be9b47730f10.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/test2/build/static/css/main.b100e6da.chunk.css",
+    "main.js": "/test2/build/static/js/main.db84faef.chunk.js",
+    "main.js.map": "/test2/build/static/js/main.db84faef.chunk.js.map",
+    "runtime-main.js": "/test2/build/static/js/runtime-main.2505d63f.js",
+    "runtime-main.js.map": "/test2/build/static/js/runtime-main.2505d63f.js.map",
+    "static/js/2.bb94e0cd.chunk.js": "/test2/build/static/js/2.bb94e0cd.chunk.js",
+    "static/js/2.bb94e0cd.chunk.js.map": "/test2/build/static/js/2.bb94e0cd.chunk.js.map",
+    "index.html": "/test2/build/index.html",
+    "precache-manifest.4b8962fa792eebe72d021cbc336d80da.js": "/test2/build/precache-manifest.4b8962fa792eebe72d021cbc336d80da.js",
+    "service-worker.js": "/test2/build/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/test2/build/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/test2/build/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90312ed1.js",
+    "static/js/runtime-main.2505d63f.js",
     "static/js/2.bb94e0cd.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.b7111b7e.chunk.js"
+    "static/js/main.db84faef.chunk.js"
   ]
 }
